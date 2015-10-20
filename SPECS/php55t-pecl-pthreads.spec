@@ -89,7 +89,7 @@ fi
 
 
 %changelog
-* Tue Oct 20 Ilya Otyutskiy <ilya.otyutskiy@icloud.com> - 3.0.1-1.vortex
+* Tue Oct 20 2015 Ilya Otyutskiy <ilya.otyutskiy@icloud.com> - 3.0.1-1.vortex
 - Update to 3.0.1.
 
 * Fri Apr  4 2014 Ilya Otyutskiy <ilya.otyutskiy@icloud.com> - 2.0.4-1.vortex
